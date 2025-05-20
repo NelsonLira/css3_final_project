@@ -20,7 +20,7 @@ header {
     background-color: #0A1828;
     max-width: 1200px;
     position: relative;
-    background-image: url("/images/puzzles-banner-6d2.png");
+    background-image: url("../images/puzzles-banner-6d2.png");
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
